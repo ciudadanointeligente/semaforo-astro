@@ -1,2 +1,2 @@
 # Semáforo Electoral 
-with [https://astro.build Astro!]
+with [https://astro.build](Astro!)
